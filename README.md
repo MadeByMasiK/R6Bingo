@@ -9,7 +9,7 @@
 ## Install python packages used in the bingo
 - Open cmd with admin privilidges in the folder you have this downloaded at.
 - While you have your venv active, use these commands:
-    - `ip install random2`
+    - `pip install tkinter` (This might be pre-installed with python)
 
 ## Run the application
 - Use the command `python siegeBingo.py`

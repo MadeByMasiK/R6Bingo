@@ -15,4 +15,4 @@
 ## Run the application
 - Use the command `python siegeBingo.py`
 
-## For questions about this project and how it works, message ma.si in Discord
+## For questions about this project and how it works, message user ***ma.si*** in Discord
